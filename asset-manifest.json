@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/receitas/static/css/main.90034eff.css",
+    "main.js": "/receitas/static/js/main.47defa0c.js",
+    "static/media/mousse-maracuja.jpeg": "/receitas/static/media/mousse-maracuja.530837d62cfa97777c59.jpeg",
+    "static/media/farofa-banana.jpeg": "/receitas/static/media/farofa-banana.8bacf5b669019574d0b4.jpeg",
+    "static/media/pao-caseiro.jpeg": "/receitas/static/media/pao-caseiro.59e60af3673d7ffa6983.jpeg",
+    "static/media/fricasse.jpeg": "/receitas/static/media/fricasse.8ac4665f59f27c9a21de.jpeg",
+    "static/media/pudim.jpeg": "/receitas/static/media/pudim.f0e298b1478a640ab6f9.jpeg",
+    "index.html": "/receitas/index.html",
+    "main.90034eff.css.map": "/receitas/static/css/main.90034eff.css.map",
+    "main.47defa0c.js.map": "/receitas/static/js/main.47defa0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90034eff.css",
+    "static/js/main.47defa0c.js"
+  ]
+}
