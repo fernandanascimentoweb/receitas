@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.txt-medida {
+    padding-block: 40px;    
+}
+
+.txt-medida h1 {
+    padding: 30px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.txt-medida p {
+    padding: 10px;
+    font-size: 18px;
+}

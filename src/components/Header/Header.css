@@ -1,0 +1,43 @@
+.header{
+    height: 39vw;
+    background: url('../../assets/farofa-banana.jpeg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    position: relative;
+}
+
+.header-contents{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1.5vw;
+    max-width: 50%;
+    bottom: 10%;
+    left: 6vw;
+}
+
+.header-contents h2 {
+    font-weight: 500;
+    color: #555;
+    font-size: max(4.5vw,22px);
+}
+.header-contents p {
+    color: #000;
+    font-size: 1.2vw;
+}
+.header-contents button {
+    border: none;
+    color: #fff;
+    font-weight: 500;
+    padding: 1vw 2.3vw;
+    background-color: tomato;
+    font-size: max(1vw,13px);
+    border-radius: 50px; 
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}

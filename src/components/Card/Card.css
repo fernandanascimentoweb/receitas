@@ -1,0 +1,53 @@
+
+.texto > hr {
+    margin-top: 70px;
+}
+
+.texto h1 {
+    padding-top: 65px;
+    font-size: 3rem;
+    color: tomato;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+}
+
+.card-list {
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 45px;
+    transition: .2s;
+}
+
+.card-list:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px tomato;
+}
+
+
+.card-list img {
+    width: 380px;
+    height: 250px;
+}
+
+.card-list p {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    color: tomato;
+}
+
+.card-list > Link {
+    text-decoration: none;
+}
+
+
+
